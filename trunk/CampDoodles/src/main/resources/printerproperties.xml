@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<printers>
+    <printer ipAddress="1111" port="100" model="Model 1" location="Location 1"></printer>
+    <printer ipAddress="2222" port="200" model="Model 2" location="Location 2"></printer>
+    <printer ipAddress="3333" port="300" model="Model 3" location="Location 3"></printer>
+    <printer ipAddress="4444" port="400" model="Model 4" location="Location 4"></printer>
+</printers>
+
